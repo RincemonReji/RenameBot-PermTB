@@ -1,18 +1,18 @@
 class Translation(object):
-    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯
+    START_TEXT = """ A Simple File Renamer Bot With Permanent Thumbnail support!💯 Please support our channel @filmsanstrends
 
-<b>Send me any Telegram file and reply to that file with /rename NewName.extn</b>"""
+<b>for doubts contact @filmsandtrends_Owner Send me any Telegram file and reply to that file with /rename NewName.extn</b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT @prgofficial"
+    UPGRADE_TEXT = "CONTACT @filmsandtrends_owner"
     DOWNLOAD_START = "Give Me Some Time Bruh!!(〒﹏〒)"
     UPLOAD_START = "Hurray... Completed Downloading(;ŏ﹏ŏ)"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @prgofficial **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @filmsandtrends **"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @prgofficial"
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @prgofficial"
+    NOT_AUTH_USER_TEXT = "CONTACT @filmsandtrends_Owner"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @filmsandtrends_Owner"
     SAVED_CUSTOM_THUMB_NAIL = "Thumbnail Saved ✅ This Is Permanent"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
